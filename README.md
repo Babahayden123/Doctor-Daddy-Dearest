@@ -13,7 +13,7 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN 
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 - [Whitty20012](https://twitter.com/CollinZhang5) - Who did the reskin
 
-I made this mod coz I'm bored
+I made this reskin coz I'm bored
 
 ## Build instructions
 
