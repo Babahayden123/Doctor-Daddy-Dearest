@@ -65,7 +65,7 @@ class TitleState extends MusicBeatState
 		trace('NEWGROUNDS LOL');
 		#end
 
-		FlxG.save.bind('ddd', 'collin');
+		FlxG.save.bind('DDD', 'Poggin');
 
 		Highscore.load();
 
@@ -295,7 +295,7 @@ class TitleState extends MusicBeatState
 				if (version.trim() != NGio.GAME_VER_NUMS.trim() && !OutdatedSubState.leftState)
 				{
 					FlxG.switchState(new OutdatedSubState());
-					trace('OLD VERSION!');
+					trace('Oh no!');
 					trace('old ver');
 					trace(version.trim());
 					trace('cur ver');
@@ -364,7 +364,7 @@ class TitleState extends MusicBeatState
 		switch (curBeat)
 		{
 			case 1:
-				createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
+				createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er', 'Whitty20012']);
 			// credTextShit.visible = true;
 			case 3:
 				addMoreText('present');
@@ -378,9 +378,9 @@ class TitleState extends MusicBeatState
 			case 5:
 				createCoolText(['In association', 'with']);
 			case 7:
-				addMoreText('newgrounds');
+				addMoreText('me lol');
 				ngSpr.visible = true;
-			// credTextShit.text += '\nNewgrounds';
+			// credTextShit.text += '\nMe lol';
 			case 8:
 				deleteCoolText();
 				ngSpr.visible = false;
