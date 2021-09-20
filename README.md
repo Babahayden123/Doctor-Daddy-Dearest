@@ -1,4 +1,4 @@
-# Friday Night Funkin Doctor Daddy Dearst Reskin
+# Friday Night Funkin Doctor Daddy Dearest Reskin
 
 This is FNF Reskin that I made.
 
